@@ -1,4 +1,4 @@
-## Hi, Grace Temitayo Olorunfemi here! A Skillful Software Engineer. I Build Web, Mobile, and Desktop Apps. I also integrate AI models into User Interfaces.
+## Hi, Gracie here! A Skillful Software Engineer. I Build Web, Mobile, and Desktop Apps. I also integrate AI models into User Interfaces.
 ### Languages and Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
